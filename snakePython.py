@@ -161,6 +161,6 @@ while True:
             # Actualizar marcador
             delay = 0.1
             wn.update()
-
+#timeSleep
     # Pausar el juego
     time.sleep(delay)
